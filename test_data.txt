@@ -1,0 +1,300 @@
+<|SENTENCE|> if this be so as i believe it to be why do you desire me to bend my will by force for no other reason but that you say you love me <|LABEL|> question <|END|>
+
+<|SENTENCE|> have you ever heard anything about god topsy <|LABEL|> question <|END|>
+
+<|SENTENCE|> whence does this proceed that there are so few to be found who have maintained the same will and the same progress in our civil commotions and that we see them one while move but a footpace and another run full speed <|LABEL|> question <|END|>
+
+<|SENTENCE|> should he abandon her <|LABEL|> question <|END|>
+
+<|SENTENCE|> did you screw the maid <|LABEL|> question <|END|>
+
+<|SENTENCE|> what said the cousin has señor don quixote then been lying why even if he wished it he has not had time to imagine and put together such a host of lies <|LABEL|> question <|END|>
+
+<|SENTENCE|> he was just out of the hospitalbut the story was worn threadbare and how could he prove it he had his arm in a slingand it was a device a regular beggars little boy would have scorned <|LABEL|> question <|END|>
+
+<|SENTENCE|> elizabeth would not observe her and when at last kitty did she very innocently said what is the matter mamma what do you keep winking at me for what am i to do <|LABEL|> question <|END|>
+
+<|SENTENCE|> why do you have to worry yourself to death over that drawing if you cant do it <|LABEL|> question <|END|>
+
+<|SENTENCE|> yes <|LABEL|> question <|END|>
+
+<|SENTENCE|> in other terms is it not the absolute of which we are only the relative <|LABEL|> question <|END|>
+
+<|SENTENCE|> how could they have a place in the shadowy conceptions of a gentle mind <|LABEL|> question <|END|>
+
+<|SENTENCE|> what will happen then <|LABEL|> question <|END|>
+
+<|SENTENCE|> tut tut tut bethinking thyself and the rest of the rigmarole bethink yourselves fathers i will go but i will take my son alexey away from here for ever on my parental authority ivan fyodorovitch my most dutiful son permit me to order you to follow me von sohn what have you to stay for come and see me now in the town it is fun there it is only one short verst instead of lenten oil i will give you suckingpig and kasha we will have dinner with some brandy and liqueur to it ive cloudberry wine hey von sohn dont lose your chance <|LABEL|> question <|END|>
+
+<|SENTENCE|> some local irritation maam <|LABEL|> question <|END|>
+
+<|SENTENCE|> then emmanuel said the young girl with hesitation it is your opinion that i should obey this invitation <|LABEL|> question <|END|>
+
+<|SENTENCE|> what could have put it in my head but the glistening of a tear as it dropped on her work <|LABEL|> question <|END|>
+
+<|SENTENCE|> why did you quarrel asked catherine considerably crestfallen <|LABEL|> question <|END|>
+
+<|SENTENCE|> to make money of course what do you think he said scornfully <|LABEL|> question <|END|>
+
+<|SENTENCE|> weeshwashtkissinapooisthnapoohuck <|LABEL|> question <|END|>
+
+<|SENTENCE|> which him as sent the banknotes pip <|LABEL|> question <|END|>
+
+<|SENTENCE|> and then made you swear never to utter the name of noirtier <|LABEL|> question <|END|>
+
+<|SENTENCE|> oh john john have i brought you to this it is my doing sir henryall mine he has done nothing except for my sake and because i asked him <|LABEL|> question <|END|>
+
+<|SENTENCE|> why cant you do it he shouted <|LABEL|> question <|END|>
+
+<|SENTENCE|> i know for a fact that kutúzov made it an absolute condition that the tsarévich should not be with the army do you know what he said to the emperor <|LABEL|> question <|END|>
+
+<|SENTENCE|> what outside our line <|LABEL|> question <|END|>
+
+<|SENTENCE|> by the way wheres that bread <|LABEL|> question <|END|>
+
+<|SENTENCE|> was it you that spread the corn out on the drying tray <|LABEL|> question <|END|>
+
+<|SENTENCE|> why in the first place i heard it from madame danglars who by the by is dying to see you in her box or to have you seen there by others secondly i learned it from beauchamps journal and thirdly from my own imagination why if you sought concealment did you call your horse vampa <|LABEL|> question <|END|>
+
+<|SENTENCE|> why did not you all learn you ought all to have learned the miss webbs all play and their father has not so good an income as yours do you draw <|LABEL|> question <|END|>
+
+<|SENTENCE|> aye aye said silver like enough you wouldnt look to find a bishop here i reckon but what sort of a way is that for bones to lie taint in natur <|LABEL|> question <|END|>
+
+<|SENTENCE|> no no no i believe you ill tell you what it is you go to grushenka yourself or see her somehow make haste and ask her see for yourself which she means to choose him or me eh what can you <|LABEL|> question <|END|>
+
+<|SENTENCE|> she is well but sad but do you know who rescued her it is quite a romance nicholas rostóv she was surrounded and they wanted to kill her and had wounded some of her people he rushed in and saved her <|LABEL|> question <|END|>
+
+<|SENTENCE|> hang the boy cant i never learn anything aint he played me tricks enough like that for me to be looking out for him by this time but old fools is the biggest fools there is cant learn an old dog new tricks as the saying is but my goodness he never plays them alike two days and how is a body to know whats coming he pears to know just how long he can torment me before i get my dander up and he knows if he can make out to put me off for a minute or make me laugh its all down again and i cant hit him a lick i aint doing my duty by that boy and thats the lords truth goodness knows spare the rod and spile the child as the good book says im a laying up sin and suffering for us both i know hes full of the old scratch but lawsame hes my own dead sisters boy poor thing and i aint got the heart to lash him somehow every time i let him off my conscience does hurt me so and every time i hit him my old heart most breaks wellawell man that is born of woman is of few days and full of trouble as the scripture says and i reckon its so hell play hookey this evening  and  southwestern for afternoon ill just be obleeged to make him work tomorrow to punish him <|LABEL|> question <|END|>
+
+<|SENTENCE|> what are they coming in this direction for he asked himself <|LABEL|> question <|END|>
+
+<|SENTENCE|> sh whats that he whispered <|LABEL|> question <|END|>
+
+<|SENTENCE|> muanhi túud ang mayur ugmà is the mayor really coming tomorrow <|LABEL|> question <|END|>
+
+<|SENTENCE|> what what has happened asked the countess as though awakening from a sleep to the realities of life did you say a misfortune indeed i should expect misfortunes <|LABEL|> question <|END|>
+
+<|SENTENCE|> see there said jane pointing to the marks dont that show shes a limb well have fine works with her i reckon i hate these nigger young uns so disgusting i wonder that masr would buy her <|LABEL|> question <|END|>
+
+<|SENTENCE|> what nonsense he is talking why you are in a sentimental mood today are you shouted razumihin <|LABEL|> question <|END|>
+
+<|SENTENCE|> you wont tell anybody at all ever as long as you live <|LABEL|> question <|END|>
+
+<|SENTENCE|> what other tinker said mr hynes <|LABEL|> question <|END|>
+
+<|SENTENCE|> can i form any assurance of his real respect to me from his humble way of speaking and submissive behaviour when these are ceremonies it is not in his choice to deny <|LABEL|> question <|END|>
+
+<|SENTENCE|> what was the cause of your quarrel <|LABEL|> question <|END|>
+
+<|SENTENCE|> and what if i meet any one she said suddenly in a low voice turning white again <|LABEL|> question <|END|>
+
+<|SENTENCE|> what had become of jean valjean <|LABEL|> question <|END|>
+
+<|SENTENCE|> youre on your oath you know pips comrade <|LABEL|> question <|END|>
+
+<|SENTENCE|> what is it asked the countess startled but seeing by her daughters face that it was only mischief she shook a finger at her sternly with a threatening and forbidding movement of her head <|LABEL|> question <|END|>
+
+<|SENTENCE|> you mean that since yesterday you _have_ seen <|LABEL|> question <|END|>
+
+<|SENTENCE|> shall i take your trunk maam shall i take your baggage let me tend to your baggage missis shant i carry out these yer missis rained down upon her unheeded <|LABEL|> question <|END|>
+
+<|SENTENCE|> here somebody cried out shame j steerforth too bad it was traddles whom mr mell instantly discomfited by bidding him hold his tongue <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> wheel me quite close and stop right in front of him <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> rikkitikki dont kill me <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> this parable speak i unto you sentimental dissemblers unto you the pure discerners <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> poor indemnity for natural rights of selfagency so pertinaciously so insultingly denied <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> yes savélich says i must <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> thoull no be telling me thot pold veg <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> ye old seamanhearts <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> well even as it was i perhaps might help <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> hoc igitur quo to jovis aurem impellere tentas dic agedum staio proh jupiter o bone clamet jupiter at sese non clamet jupiter ipse <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> but by saint patrick <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> where billow meets billow then soft be thy pillow ah weary wee flipperling curl at thy ease <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> and now foolest thou me fleeing thou sweet romp dost annoy <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> i had admired the perfect forms of my cottagerstheir grace beauty and delicate complexions but how was i terrified when i viewed myself in a transparent pool <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> haul in haul in cried starbuck again hes rising <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> there it is it again said pierre to himself and an involuntary shudder ran down his spine <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> _he takes part in a stomach race with elderly male and female cripples_ come on boys <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> he has made me so happy said she one evening by telling me that he was totally ignorant of my being in town last spring i had not believed it possible <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> look at em dartin about an hearken at em callin to each other come springtime seems like as if all th worlds callin the leaves is uncurlin so you can see eman my word th nice smells there is about sniffing with his happy turnedup nose <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> but ill tell you the whole truth gentlemen great elder forgive me the last thing about diderots christening i made up just now i never thought of it before i made it up to add piquancy i play the fool pyotr alexandrovitch to make myself agreeable though i really dont know myself sometimes what i do it for and as for diderot i heard as far as the fool hath said in his heart twenty times from the gentry about here when i was young i heard your aunt pyotr alexandrovitch tell the story they all believe to this day that the infidel diderot came to dispute about god with the metropolitan platon <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> _he throws a leg astride and pressing with horsemans knees calls in a hard voice_ gee up <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> no she cried <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> is it possible repeated defarge bitterly <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> your excellency she wailed suddenly with a heartrending scream and a flood of tears protect the orphans you have been their fathers guest one may say aristocratic <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> deeming that a serene and unconscious contemplation of him would best beseem me and would be most likely to quell his evil mind i advanced with that expression of countenance and was rather congratulating myself on my success when suddenly the knees of trabbs boy smote together his hair uprose his cap fell off he trembled violently in every limb staggered out into the road and crying to the populace hold me im so frightened feigned to be in a paroxysm of terror and contrition occasioned by the dignity of my appearance <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> look at me <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> but mamma its so different to be brought up as ive been with so many friends so many things to make me good and happy and to be brought up as shes been all the time till she came here <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> you stop she almost shouted <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> ye signify steps so do not upbraid him who ascendeth beyond you into his height <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> then turnd to thracia from the field of fight those eyes that shed insufferable light to where the mysians prove their martial force and hardy thracians tame the savage horse and where the farfamed hippomolgian strays renownd for justice and for length of days229 pg 231 thrice happy race that innocent of blood from milk innoxious seek their simple food jove sees delighted and avoids the scene of guilty troy of arms and dying men no aid he deems to either host is given while his high law suspends the powers of heaven <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> now lookee here said the man <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> my tortouse38 said brujon <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> god preserve us if it were <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> absurd <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> very interesting remembrances said the spy <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> oh jip <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> for the lack of four and twenty sous he was losing his joy his happiness his love <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> there is no saying much for the delicacy of our good friends the eltons was his next observationhis feelings are naturalwhat actually resolve to break with him entirelyshe felt the engagement to be a source of repentance and misery to eachshe dissolved itwhat a view this gives of her sense of his behaviourwell he must be a most extraordinary <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> we should look at this he said <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> after a good deal of squabbling said my aunt i got him and he has been here ever since he is the most friendly and amenable creature in existence and as for advicebut nobody knows what that mans mind is except myself <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> in my heart do i love only lifeand verily most when i hate her <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> coome thou lost one coome thou dear one <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> they have begun to fight <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> thank you said holmes folding up the paper and returning it to our visitor <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> ungrateful offering to the immortal powers197 whose wrath hung heavy oer the trojan towers nor priam nor his sons obtaind their grace proud troy they hated and her guilty race <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> why blast your eyes bildad cried peleg thou dost not want to swindle this young man he must have more than that <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> think not now of the minister but look about thee and see how cheery is everybodys face today the children have come from their schools and the grown people from their workshops and their fields on purpose to be happy for today a new man is beginning to rule over them and soas has been the custom of mankind ever since a nation was first gatheredthey make merry and rejoice as if a good and golden year were at length to pass over the poor old world <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> you were very wicked mr heathcliff <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> i remember how the solemn feeling with which at length i turned my eyes away yielded to the sensation of gratitude and rest which the sight of the whitecurtained bedand how much more the lying softly down upon it nestling in the snowwhite sheetsinspired <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> we give you the power of the sky we cried <|LABEL|> exclamation <|END|>
+
+<|SENTENCE|> i know not if it is finished my beloved child said monte cristo taking the young girls hands but i do know you have nothing more to fear <|LABEL|> other <|END|>
+
+<|SENTENCE|> dantès himself was simply but becomingly clad in the dress peculiar to the merchant servicea costume somewhat between a military and a civil garb and with his fine countenance radiant with joy and happiness a more perfect specimen of manly beauty could scarcely be imagined <|LABEL|> other <|END|>
+
+<|SENTENCE|> hes big enough but hes bashfuller than a little un and he dont like <|LABEL|> other <|END|>
+
+<|SENTENCE|> the poor children had now nowhere to play <|LABEL|> other <|END|>
+
+<|SENTENCE|> evident modification of the cricket term off his own bat though not connected therewith_see_ hook <|LABEL|> other <|END|>
+
+<|SENTENCE|> i glanced down <|LABEL|> other <|END|>
+
+<|SENTENCE|> that at the back there <|LABEL|> other <|END|>
+
+<|SENTENCE|> they must have gone home by another way <|LABEL|> other <|END|>
+
+<|SENTENCE|> the personnel who wrote up the entries are listed in section 21 p <|LABEL|> other <|END|>
+
+<|SENTENCE|> another brought tables of silver up to the seats and set them with baskets of gold <|LABEL|> other <|END|>
+
+<|SENTENCE|> we said the council does not know of this hole so it cannot be forbidden <|LABEL|> other <|END|>
+
+<|SENTENCE|> he replied that he could not do so on any account until he had concluded some business in which his life honour and heart were at stake <|LABEL|> other <|END|>
+
+<|SENTENCE|>  <|LABEL|> other <|END|>
+
+<|SENTENCE|> 62 verbal derivation <|LABEL|> other <|END|>
+
+<|SENTENCE|> may be its so <|LABEL|> other <|END|>
+
+<|SENTENCE|> they have no leader said bagheera <|LABEL|> other <|END|>
+
+<|SENTENCE|> i got a card from bannon <|LABEL|> other <|END|>
+
+<|SENTENCE|> their authors are a natural and irresistible aristocracy in every society and more than kings or emperors exert an influence on mankind <|LABEL|> other <|END|>
+
+<|SENTENCE|> they drink considerable quantities of whiskey but do not get very drunk they talk and laugh loudly at times but seldom quarrel or fight <|LABEL|> other <|END|>
+
+<|SENTENCE|> get ready <|LABEL|> other <|END|>
+
+<|SENTENCE|> which that were my own belief answered joe her compliments to mrs j gargery <|LABEL|> other <|END|>
+
+<|SENTENCE|> tis all the reason in the world to limit human wit within the strictest limits imaginable in study as in all the rest we ought to have its steps and advances numbered and fixed and that the limits of its inquisition be bounded by art <|LABEL|> other <|END|>
+
+<|SENTENCE|> a child not participating is the leader abat and recites a verse after which the fist at the bottom opens the verse is repeated and the next fist opens and so forth until everybody has opened his fist <|LABEL|> other <|END|>
+
+<|SENTENCE|> the beginning of the winter had been mild there had been neither snow nor frost up to that time <|LABEL|> other <|END|>
+
+<|SENTENCE|> 1f2 <|LABEL|> other <|END|>
+
+<|SENTENCE|> we in this age do not see the beauty of that dog <|LABEL|> other <|END|>
+
+<|SENTENCE|> added to which of course would be the pecuniary emolument by no means to be sneezed at going hand in hand with his tuition fees <|LABEL|> other <|END|>
+
+<|SENTENCE|> the count told baptistin to leave the plate within reach of his guest who began by sipping the alicante with an expression of great satisfaction and then delicately steeped his biscuit in the wine <|LABEL|> other <|END|>
+
+<|SENTENCE|> in spite of the gross flattery and coarseness of this address madame danglars could not forbear gazing with considerable interest on a man capable of expending six millions in twelve months and who had selected paris for the scene of his princely extravagance <|LABEL|> other <|END|>
+
+<|SENTENCE|> the cell was clean though empty and dry though situated at an immeasurable distance under the earth <|LABEL|> other <|END|>
+
+<|SENTENCE|> her ancient decks were worn and wrinkled like the pilgrimworshipped flagstone in canterbury cathedral where becket bled <|LABEL|> other <|END|>
+
+<|SENTENCE|> had she been like this when he entered the day before he could not for a moment have failed to recognize her <|LABEL|> other <|END|>
+
+<|SENTENCE|> 1e <|LABEL|> other <|END|>
+
+<|SENTENCE|> i was not <|LABEL|> other <|END|>
+
+<|SENTENCE|> come thats enough svidrigaïlov stopped her at raskolnikovs entrance <|LABEL|> other <|END|>
+
+<|SENTENCE|> forced into familiarity then with such prodigies as these and knowing that after repeated intrepid assaults the white whale had escaped alive it cannot be much matter of surprise that some whalemen should go still further in their superstitions declaring moby dick not only ubiquitous but immortal for immortality is but ubiquity in time that though groves of spears should be planted in his flanks he would still swim away unharmed or if indeed he should ever be made to spout thick blood such a sight would be but a ghastly deception for again in unensanguined billows hundreds of leagues away his unsullied jet would once more be seen <|LABEL|> other <|END|>
+
+<|SENTENCE|> don quixote was standing by at the time highly pleased to see his squires stoutness both offensive and defensive and from that time forth he reckoned him a man of mettle and in his heart resolved to dub him a knight on the first opportunity that presented itself feeling sure that the order of chivalry would be fittingly bestowed upon him <|LABEL|> other <|END|>
+
+<|SENTENCE|> as they were nearing home she suddenly struck up the air of as twas growing dark last nightthe tune of which she had all the way been trying to get and had at last caught <|LABEL|> other <|END|>
+
+<|SENTENCE|> in a ship i belonged to a small cub sperm whale was once bodily hoisted to the deck for his poke or bag to make sheaths for the barbs of the harpoons and for the heads of the lances <|LABEL|> other <|END|>
+
+<|SENTENCE|> the corpse of madame de villefort was stretched across the doorway leading to the room in which edward must be those glaring eyes seemed to watch over the threshold and the lips bore the stamp of a terrible and mysterious irony <|LABEL|> other <|END|>
+
+<|SENTENCE|> i have just returned from my benefactor and hasten to write down what i have experienced <|LABEL|> other <|END|>
+
+<|SENTENCE|> wirepullers powerful political partisans who do their work from behind the scenes <|LABEL|> other <|END|>
+
+<|SENTENCE|> he kicked the fire with his foot and the sparks flew up <|LABEL|> other <|END|>
+
+<|SENTENCE|> from the question of the scaffold to the question of war their works embraced everything <|LABEL|> other <|END|>
+
+<|SENTENCE|> tom soon noticed a heavy cloud passing over the womans brow and that she answered rapidly and with great vehemence <|LABEL|> other <|END|>
+
+<|SENTENCE|> sometimes it is faith in life sometimes a faith in death sometimes assurance of boundless justice in some fair world beyond <|LABEL|> other <|END|>
+
+<|SENTENCE|> there was a sharp turn at every twenty or thirty yards and at each turn a novel effect <|LABEL|> other <|END|>
+
+<|SENTENCE|> with her weak blood and wheysour milk she had fed him and hid from sight of others his swaddling bands <|LABEL|> other <|END|>
+
+<|SENTENCE|> beneath these lines was written in another hand see note abovenothing can be done <|LABEL|> other <|END|>
+
+<|SENTENCE|> hes not young and hes not an officer either not him sir its the young gentleman thats mr miüsovs relation  ive forgotten his name <|LABEL|> other <|END|>
+
